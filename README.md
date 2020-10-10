@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [PHP报错 'libonig.so.2: cannot open shared object file... '问题解决](https://myblog.zhengpc.com/articles/2020/08/27/1598522167215.html)
+* [系统更新导致：PHP报错 'libonig.so.2: cannot open shared object file... '问题解决](https://myblog.zhengpc.com/articles/2020/08/27/1598522167215.html)
 * [使用PHP下载网络图片或文件](https://myblog.zhengpc.com/articles/2020/08/12/1597218334271.html)
 * [Apache(wamp)下配置ssl证书](https://myblog.zhengpc.com/articles/2020/08/04/1596512458890.html)
 * [Apache报错 Parent: child process 2744 exited with status 3221226356 -- Restarting](https://myblog.zhengpc.com/articles/2020/08/04/1596509366225.html)
