@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [windows下安装Jenkins](https://myblog.zhengpc.com/articles/2020/11/23/1606127171977.html)
 * [Windows下配置MySQL数据库主从同步](https://myblog.zhengpc.com/articles/2020/11/18/1605694234803.html)
 * [系统更新导致：PHP报错 'libonig.so.2: cannot open shared object file... '问题解决](https://myblog.zhengpc.com/articles/2020/08/27/1598522167215.html)
 * [使用PHP下载网络图片或文件](https://myblog.zhengpc.com/articles/2020/08/12/1597218334271.html)
@@ -29,7 +30,6 @@
 * [如何使用github当作自己的静态文件库](https://myblog.zhengpc.com/articles/2020/03/11/1583919217986.html)
 * [Yii 根据公司id来产品分表，以及读取产品表时的一些操作](https://myblog.zhengpc.com/articles/2020/03/03/1583207015907.html)
 * [PHP遍历删除文件夹以及文件夹里的文件](https://myblog.zhengpc.com/articles/2019/12/30/1577691418354.html)
-* [如何隐藏HTTP响应头里的server和X-Powered-By](https://myblog.zhengpc.com/articles/2019/11/21/1574332517065.html)
 
 
 
