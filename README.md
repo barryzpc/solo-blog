@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [转：nginx中的 fastcgi_pass为什么有时候是unix:/tmp/php-fpm.sock，有时候是127.0.0.1:9000](https://myblog.zhengpc.com/articles/2020/11/26/1606355061499.html)
 * [windows下安装Jenkins](https://myblog.zhengpc.com/articles/2020/11/23/1606127171977.html)
 * [Windows下配置MySQL数据库主从同步](https://myblog.zhengpc.com/articles/2020/11/18/1605694234803.html)
 * [系统更新导致：PHP报错 'libonig.so.2: cannot open shared object file... '问题解决](https://myblog.zhengpc.com/articles/2020/08/27/1598522167215.html)
@@ -23,13 +24,12 @@
 * [我在 GitHub 上的开源项目](https://myblog.zhengpc.com/my-github-repos)
 * [网上收集的PHP知识点和面试汇总](https://myblog.zhengpc.com/articles/2020/04/22/1587541701093.html)
 * [PHP实现输入一个整数n，输出一个n×n蛇形矩阵](https://myblog.zhengpc.com/articles/2020/04/20/1587390691737.html)
-* [转载： 你知道缓存的正确打开方式么？](https://myblog.zhengpc.com/articles/2020/04/16/1587017727206.html)
-* [转载：centos7 编译安装 php7.4](https://myblog.zhengpc.com/articles/2020/04/14/1586834851714.html)
+* [转： 你知道缓存的正确打开方式么？](https://myblog.zhengpc.com/articles/2020/04/16/1587017727206.html)
+* [转：centos7 编译安装 php7.4](https://myblog.zhengpc.com/articles/2020/04/14/1586834851714.html)
 * [PHP的常用工具函数](https://myblog.zhengpc.com/articles/2020/03/17/1584424890414.html)
 * [RabbitMQ的安装以及对应的PHP扩展的安装](https://myblog.zhengpc.com/articles/2020/03/17/1584413384830.html)
 * [如何使用github当作自己的静态文件库](https://myblog.zhengpc.com/articles/2020/03/11/1583919217986.html)
 * [Yii 根据公司id来产品分表，以及读取产品表时的一些操作](https://myblog.zhengpc.com/articles/2020/03/03/1583207015907.html)
-* [PHP遍历删除文件夹以及文件夹里的文件](https://myblog.zhengpc.com/articles/2019/12/30/1577691418354.html)
 
 
 
