@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [如何判断redis的响应是否变慢](https://myblog.zhengpc.com/articles/2020/12/08/1607392229857.html)
 * [ngin反向代理实现集群配置以及根据不同的url后缀来访问不同的服务配置](https://myblog.zhengpc.com/articles/2020/12/04/1607013142180.html)
 * [转：nginx中的 fastcgi_pass为什么有时候是unix:/tmp/php-fpm.sock，有时候是127.0.0.1:9000](https://myblog.zhengpc.com/articles/2020/11/26/1606355061499.html)
 * [windows下安装Jenkins](https://myblog.zhengpc.com/articles/2020/11/23/1606127171977.html)
@@ -29,7 +30,6 @@
 * [转：centos7 编译安装 php7.4](https://myblog.zhengpc.com/articles/2020/04/14/1586834851714.html)
 * [PHP的常用工具函数](https://myblog.zhengpc.com/articles/2020/03/17/1584424890414.html)
 * [RabbitMQ的安装以及对应的PHP扩展的安装](https://myblog.zhengpc.com/articles/2020/03/17/1584413384830.html)
-* [如何使用github当作自己的静态文件库](https://myblog.zhengpc.com/articles/2020/03/11/1583919217986.html)
 
 
 
