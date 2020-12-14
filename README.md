@@ -24,12 +24,12 @@
 * [windows生产服务器下部署Flask](https://myblog.zhengpc.com/articles/2020/07/24/1595577454676.html)
 * [PHP使用curl实现毫秒级等待的伪异步请求](https://myblog.zhengpc.com/articles/2020/07/16/1594914341041.html)
 * [我在 GitHub 上的开源项目](https://myblog.zhengpc.com/my-github-repos)
-* [网上收集的PHP知识点和面试汇总](https://myblog.zhengpc.com/articles/2020/04/22/1587541701093.html)
 * [PHP实现输入一个整数n，输出一个n×n蛇形矩阵](https://myblog.zhengpc.com/articles/2020/04/20/1587390691737.html)
 * [转： 你知道缓存的正确打开方式么？](https://myblog.zhengpc.com/articles/2020/04/16/1587017727206.html)
 * [转：centos7 编译安装 php7.4](https://myblog.zhengpc.com/articles/2020/04/14/1586834851714.html)
 * [PHP的常用工具函数](https://myblog.zhengpc.com/articles/2020/03/17/1584424890414.html)
 * [RabbitMQ的安装以及对应的PHP扩展的安装](https://myblog.zhengpc.com/articles/2020/03/17/1584413384830.html)
+* [如何使用github当作自己的静态文件库](https://myblog.zhengpc.com/articles/2020/03/11/1583919217986.html)
 
 
 
