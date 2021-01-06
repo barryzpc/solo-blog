@@ -14,7 +14,7 @@
 * [ngin反向代理实现集群配置以及根据不同的url后缀来访问不同的服务配置](https://myblog.zhengpc.com/articles/2020/12/04/1607013142180.html)
 * [转：nginx中的 fastcgi_pass为什么有时候是unix:/tmp/php-fpm.sock，有时候是127.0.0.1:9000](https://myblog.zhengpc.com/articles/2020/11/26/1606355061499.html)
 * [windows下安装Jenkins](https://myblog.zhengpc.com/articles/2020/11/23/1606127171977.html)
-* [Windows下配置MySQL数据库主从同步](https://myblog.zhengpc.com/articles/2020/11/18/1605694234803.html)
+* [配置MySQL数据库主从同步](https://myblog.zhengpc.com/articles/2020/11/18/1605694234803.html)
 * [系统更新导致：PHP报错 'libonig.so.2: cannot open shared object file... '问题解决](https://myblog.zhengpc.com/articles/2020/08/27/1598522167215.html)
 * [使用PHP下载网络图片或文件](https://myblog.zhengpc.com/articles/2020/08/12/1597218334271.html)
 * [Apache(wamp)下配置ssl证书](https://myblog.zhengpc.com/articles/2020/08/04/1596512458890.html)
