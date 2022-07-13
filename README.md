@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [DDD领域驱动设计相关文章收藏](https://myblog.zhengpc.com/articles/2022/07/12/1657594193348.html)
 * [PHPStorm菜单快捷操作指南](https://myblog.zhengpc.com/articles/2021/09/05/1630851971940.html)
 * [wamp下配置PHP项目如何隐藏url中的index.php](https://myblog.zhengpc.com/articles/2021/03/24/1616573872192.html)
 * [如何判断redis的响应是否变慢](https://myblog.zhengpc.com/articles/2020/12/08/1607392229857.html)
@@ -29,7 +30,6 @@
 * [网上收集的PHP知识点和面试汇总](https://myblog.zhengpc.com/articles/2020/04/22/1587541701093.html)
 * [PHP实现输入一个整数n，输出一个n×n蛇形矩阵](https://myblog.zhengpc.com/articles/2020/04/20/1587390691737.html)
 * [转： 你知道缓存的正确打开方式么？](https://myblog.zhengpc.com/articles/2020/04/16/1587017727206.html)
-* [转：centos7 编译安装 php7.4](https://myblog.zhengpc.com/articles/2020/04/14/1586834851714.html)
 
 
 
