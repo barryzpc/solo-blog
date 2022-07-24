@@ -1,9 +1,9 @@
-<p align="center"><img alt="浩天说" src="https://cdn.jsdelivr.net/gh/barryzpc/pic-repo/my-blog/img/barry.png"></p><h2 align="center">
-浩天说
+<p align="center"><img alt="浩哥笔记" src="https://cdn.jsdelivr.net/gh/barryzpc/pic-repo/my-blog/img/barry.png"></p><h2 align="center">
+浩哥笔记
 </h2>
 
 <h4 align="center">路漫漫其修远兮，吾将上下而求索</h4>
-<p align="center"><a title="浩天说" target="_blank" href="https://github.com/barryzpc/solo-blog"><img src="https://img.shields.io/github/last-commit/barryzpc/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="浩哥笔记" target="_blank" href="https://github.com/barryzpc/solo-blog"><img src="https://img.shields.io/github/last-commit/barryzpc/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/barryzpc/solo-blog"><img src="https://img.shields.io/github/repo-size/barryzpc/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.4.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/barryzpc/solo-blog.svg"></a></p>
