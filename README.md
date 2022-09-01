@@ -2,7 +2,7 @@
 浩哥笔记
 </h2>
 
-<h4 align="center">路漫漫其修远兮，吾将上下而求索</h4>
+<h4 align="center">我们的征途是星辰大海</h4>
 <p align="center"><a title="浩哥笔记" target="_blank" href="https://github.com/barryzpc/solo-blog"><img src="https://img.shields.io/github/last-commit/barryzpc/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/barryzpc/solo-blog"><img src="https://img.shields.io/github/repo-size/barryzpc/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.4.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
