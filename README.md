@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Java中常见的异常及分类](https://myblog.zhengpc.com/articles/2022/12/01/1669880943618.html)
 * [php7.1编译安装扩展Yac](https://myblog.zhengpc.com/articles/2022/07/13/1657681076161.html)
 * [DDD领域驱动设计相关文章收藏](https://myblog.zhengpc.com/articles/2022/07/12/1657594193348.html)
 * [PHPStorm菜单快捷操作指南](https://myblog.zhengpc.com/articles/2021/09/05/1630851971940.html)
@@ -29,7 +30,6 @@
 * [PHP使用curl实现毫秒级等待的伪异步请求](https://myblog.zhengpc.com/articles/2020/07/16/1594914341041.html)
 * [我在 GitHub 上的开源项目](https://myblog.zhengpc.com/my-github-repos)
 * [网上收集的PHP知识点和面试汇总](https://myblog.zhengpc.com/articles/2020/04/22/1587541701093.html)
-* [PHP实现输入一个整数n，输出一个n×n蛇形矩阵](https://myblog.zhengpc.com/articles/2020/04/20/1587390691737.html)
 
 
 
