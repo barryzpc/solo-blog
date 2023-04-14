@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [java开发中常用的那些注解](https://myblog.zhengpc.com/articles/2023/04/13/1681358172194.html)
 * [Java中常见的异常及分类](https://myblog.zhengpc.com/articles/2022/12/01/1669880943618.html)
 * [php7.1编译安装扩展Yac](https://myblog.zhengpc.com/articles/2022/07/13/1657681076161.html)
 * [DDD领域驱动设计相关文章收藏](https://myblog.zhengpc.com/articles/2022/07/12/1657594193348.html)
@@ -29,7 +30,6 @@
 * [windows生产服务器下部署Flask](https://myblog.zhengpc.com/articles/2020/07/24/1595577454676.html)
 * [PHP使用curl实现毫秒级等待的伪异步请求](https://myblog.zhengpc.com/articles/2020/07/16/1594914341041.html)
 * [我在 GitHub 上的开源项目](https://myblog.zhengpc.com/my-github-repos)
-* [网上收集的PHP知识点和面试汇总](https://myblog.zhengpc.com/articles/2020/04/22/1587541701093.html)
 
 
 
