@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Spring的循环依赖解决策略](https://myblog.zhengpc.com/articles/2024/04/14/1713098770442.html)
 * [SpringBoot中使用undertow的accesslog 配置%D 获取耗时不生效问题【最优解】](https://myblog.zhengpc.com/articles/2023/11/22/1700621273810.html)
 * [Java8如何处理NPE问题-Optional](https://myblog.zhengpc.com/articles/2023/09/19/1695088524727.html)
 * [Java Stream API的使用](https://myblog.zhengpc.com/articles/2023/09/17/1694954238502.html)
@@ -29,7 +30,6 @@
 * [Apache(wamp)下配置ssl证书](https://myblog.zhengpc.com/articles/2020/08/04/1596512458890.html)
 * [Apache报错 Parent: child process 2744 exited with status 3221226356 -- Restarting](https://myblog.zhengpc.com/articles/2020/08/04/1596509366225.html)
 * [PHP下使用rabbitMQ报错Call to undefined function PhpAmqpLib\\Wire\\IO\\socket_strerror()的问题查找与解决](https://myblog.zhengpc.com/articles/2020/08/03/1596442518677.html)
-* [python项目依赖库的批量导出和导入](https://myblog.zhengpc.com/articles/2020/07/24/1595584844339.html)
 
 
 
