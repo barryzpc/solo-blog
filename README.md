@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [MySQL主键索引(聚簇索引)和非主键索引(非聚簇索引)有什么区别](https://myblog.zhengpc.com/articles/2024/08/08/1723102581316.html)
 * [线程池原理](https://myblog.zhengpc.com/articles/2024/04/26/1714120781404.html)
 * [Spring的循环依赖解决策略](https://myblog.zhengpc.com/articles/2024/04/14/1713098770442.html)
 * [SpringBoot中使用undertow的accesslog 配置%D 获取耗时不生效问题【最优解】](https://myblog.zhengpc.com/articles/2023/11/22/1700621273810.html)
@@ -29,7 +30,6 @@
 * [系统更新导致：PHP报错 'libonig.so.2: cannot open shared object file... '问题解决](https://myblog.zhengpc.com/articles/2020/08/27/1598522167215.html)
 * [使用PHP下载网络图片或文件](https://myblog.zhengpc.com/articles/2020/08/12/1597218334271.html)
 * [Apache(wamp)下配置ssl证书](https://myblog.zhengpc.com/articles/2020/08/04/1596512458890.html)
-* [Apache报错 Parent: child process 2744 exited with status 3221226356 -- Restarting](https://myblog.zhengpc.com/articles/2020/08/04/1596509366225.html)
 
 
 
